@@ -4,8 +4,8 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.avr64dd32-getting-started-with-i2c-mplabx-mcc",
-        "version": "1.0.0",
-        "displayName": "Getting Started with Inter-Integrated Circuit (I<sup>2</sup>C) Using the AVR64DD32 Microcontroller with MCC Melody",
+        "version": "1.0.1",
+        "displayName": "Getting Started with Inter-Integrated Circuit (I2C) Using the AVR64DD32 Microcontroller with MCC Melody",
         "projectName": "avr64dd32-getting-started-with-i2c-mplabx-mcc",
         "shortDescription": "Getting Started with Inter-Integrated Circuit (I2C) Using the AVR64DD32 Microcontroller with MCC Melody",
         "ide": {
